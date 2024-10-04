@@ -1,2 +1,13 @@
 git clone https://github.com/josephwandery/corsy.git
 cd corsy
+
+
+Run the tool.
+
+Run the Tool: You can run the tool by passing a single URL:
+
+python3 Corsy.py -u https://example.com
+
+Run the Tool: You can run the tool by passing a list of urls:
+
+python3 Corsy.py -i urls.txt
