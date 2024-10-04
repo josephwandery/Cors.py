@@ -1,6 +1,8 @@
 Run Corsy with the following command:
 
-python corsy.py [options]
+python3 Corsy.py [options]
+
+python3 Corsy.py -h
 
 Options
 
