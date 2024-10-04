@@ -1,0 +1,7 @@
+Run Corsy with the following command:
+
+python corsy.py [options]
+
+Options
+
+-q: Skip printing of description, severity, and exploitation fields in the output.
